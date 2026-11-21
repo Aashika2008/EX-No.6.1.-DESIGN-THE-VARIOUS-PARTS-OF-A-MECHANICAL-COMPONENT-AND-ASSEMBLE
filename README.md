@@ -66,6 +66,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 8 39 05 PM" src="https://github.com/user-attachments/assets/2450b6c9-6d20-46ce-9370-c03f3e268938" />
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 8 38 44 PM" src="https://github.com/user-attachments/assets/bc2cf0ec-bc01-44ab-8450-b29b93c0149e" />
 <img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 8 38 21 PM" src="https://github.com/user-attachments/assets/654321aa-810c-4c65-b6c2-fae8d6f2c0f5" />
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/f3087972-5de1-4f46-a013-d25df3f93939" />
+
 
 
 
